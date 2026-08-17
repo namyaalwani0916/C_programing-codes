@@ -31,8 +31,5 @@ This repository contains a collection of fundamental C programs designed for beg
 
 ---
 
-## ⚠️ Important Note on `void main()`
 
-> These programs use `void main()` to match the style taught in class. 
-> 
 > The standard-correct form is `int main(void)` with a `return 0;` at the end. Both compile and run; if a compiler ever objects, switching to the standard form is the fix.
